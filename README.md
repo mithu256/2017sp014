@@ -2,6 +2,13 @@
 for git practical
 ======================================
 new branches
-Team Members 
-Software Reguirements
+Team Members
+============================
+T.mithu
+T.thivi
+software Reguirements
+=========================
+
+
 Objective
+===========================
